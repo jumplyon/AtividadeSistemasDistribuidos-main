@@ -7,9 +7,9 @@ services:
     restart: always
 
     environment:
-      POSTGRES_USER: myuser
-      POSTGRES_PASSWORD: mypassword
-      POSTGRES_DB: mydatabase
+      POSTGRES_USER: joaopedro
+      POSTGRES_PASSWORD: 280205
+      POSTGRES_DB: atividadesistemasdistribuidos
 
     ports:
       - "5432:5432"
