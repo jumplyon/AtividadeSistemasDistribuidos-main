@@ -9,7 +9,7 @@ O ambiente de desenvolvimento é totalmente **containerizado com Docker**, e o v
 
 ---
 
-## ✨ Funcionalidades:
+## ✨ Funcionalidades
 
 * **Gerenciamento de Categorias:** CRUD completo (Criar, Ler, Atualizar e Deletar).
 * **Gerenciamento de Produtos:** CRUD completo com associação a uma categoria.
