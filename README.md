@@ -124,3 +124,5 @@ A seguir estão os endpoints disponíveis na API:
 * **PUT** `/v1/products/{id}` — Atualiza um produto existente
 
 * **DELETE** `/v1/products/{id}` — Remove um produto
+
+
