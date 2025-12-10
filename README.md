@@ -1,6 +1,6 @@
 # 💻 API de Gerenciamento de Produtos e Categorias
 
-## 📝 Descrição:
+## 📝 Descrição
 
 Este projeto é uma **API RESTful** desenvolvida com **Spring Boot** para gerenciar um catálogo de produtos e suas respectivas categorias.
 A aplicação segue uma **arquitetura em camadas** (Controllers, Services, Repositories), garantindo separação de responsabilidades e melhor manutenção do código.
